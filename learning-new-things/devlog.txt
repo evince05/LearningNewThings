@@ -1,0 +1,38 @@
+Devlog #1... 03/24/2025
+
+What are we learning this week? The building blocks of HTML (and maybe responsive HTML too?).
+
+Ideas:
+- A blog for posting this kind of content (devlogs and stuff), with images and code snippets too.
+
+What do we need?
+
+- Navbar (website header)
+- Main pane (article)
+- Sidebar (document overview)
+- Footer (website footer)
+
+Let's try it out :)
+
+What did I learn?
+
+1) Some HTML elements lend themselves nicely to page layouts.
+- Use elements like <nav> to store a set of links.
+- <article> defines self-contained content.
+
+2) You can expand the height of an element using vh units (viewport height). 1vh = 1% of viewport height.
+
+3) Remember, when passing props to a React component, keep them inside a single object, like so:
+function MyComponent({props}) { ... }
+
+4) You can define CSS variables using the --varname: value notation, and then var(--varname) in other CSS code.
+5) To remove the bullet points on a ul, use `list-style-type: none`.
+
+Great work! This was a really fun hour and it was hard putting it down.
+
+Next steps:
+- Functioning links to different sections of the article
+- Adding more images
+- Maybe change the color scheme? (Not a huge fan... look on Pinterest for inspo).
+
+Cheers! Looking forward to the next one.
