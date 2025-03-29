@@ -1,0 +1,16 @@
+.in-box {
+	width: 20%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.in-box * {
+	margin: 0.5rem;
+}
+
+.password-meter {
+	width: 50%;
+}
+
