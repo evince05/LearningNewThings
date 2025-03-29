@@ -1,38 +1,20 @@
-Devlog #1... 03/24/2025
+Devlog #2...03/26/25
 
-What are we learning this week? The building blocks of HTML (and maybe responsive HTML too?).
+Switching it up from the BlogPage idea right now. Maybe I'll add more to that later,
+but I want to get even more fundamental than that. Woohoo!
 
-Ideas:
-- A blog for posting this kind of content (devlogs and stuff), with images and code snippets too.
-
-What do we need?
-
-- Navbar (website header)
-- Main pane (article)
-- Sidebar (document overview)
-- Footer (website footer)
+What are we learning today?
+- Some state-based components (flipcards)
+- maybe some element interactions (hover, click, etc)
+- some key UI elements in HTML (see article)
 
 Let's try it out :)
 
-What did I learn?
+Flipcards:
+- basic idea: card with generic background, click to "flip" and reveal score 1-10.
+		- toggleable (flip again to revert)
 
-1) Some HTML elements lend themselves nicely to page layouts.
-- Use elements like <nav> to store a set of links.
-- <article> defines self-contained content.
-
-2) You can expand the height of an element using vh units (viewport height). 1vh = 1% of viewport height.
-
-3) Remember, when passing props to a React component, keep them inside a single object, like so:
-function MyComponent({props}) { ... }
-
-4) You can define CSS variables using the --varname: value notation, and then var(--varname) in other CSS code.
-5) To remove the bullet points on a ul, use `list-style-type: none`.
-
-Great work! This was a really fun hour and it was hard putting it down.
-
-Next steps:
-- Functioning links to different sections of the article
-- Adding more images
-- Maybe change the color scheme? (Not a huge fan... look on Pinterest for inspo).
-
-Cheers! Looking forward to the next one.
+Next Steps:
+- Flipcards and layouts (grid, flex, etc.)
+- HTML UI elements and layouts (same as above?)
+- Look into Chakra UI and Material UI for open-source components!

@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import { BlogPage } from './html_layouts/BlogPage';
+import ShowCards from './html_layouts/ShowCards';
+import { NewTags } from './components/NewTags';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BlogPage />
+    <NewTags />
   </React.StrictMode>
 );
 

@@ -1,0 +1,18 @@
+* {
+	color: black;
+}
+
+kbd {
+	color: black;
+	background-color:lightgray;
+	font-size: 1.1rem;
+	padding: 0.3rem;
+	border-radius: 20%;
+}
+
+.pwd {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+}
