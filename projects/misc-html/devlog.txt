@@ -1,0 +1,23 @@
+Devlog #2...03/26/25
+
+Switching it up from the BlogPage idea right now. Maybe I'll add more to that later,
+but I want to get even more fundamental than that. Woohoo!
+
+What are we learning today?
+- Some state-based components (flipcards)
+- maybe some element interactions (hover, click, etc)
+- some key UI elements in HTML (see article)
+
+Let's try it out :)
+
+Flipcards:
+- basic idea: card with generic background, click to "flip" and reveal score 1-10.
+		- toggleable (flip again to revert)
+
+Next Steps:
+- Flipcards and layouts (grid, flex, etc.)
+- HTML UI elements and layouts (same as above?)
+- Look into Chakra UI and Material UI for open-source components!
+
+DESIGN: https://www.realtimecolors.com/?colors=ebeff7-060b11-9ebfe0-255484-3781ce&fonts=Inter-Inter
+https://www.youtube.com/watch?v=wIuVvCuiJhU

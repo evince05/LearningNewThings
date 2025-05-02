@@ -68,7 +68,6 @@ export function NewTags() {
 			</div>
 			<div className="pwd">
 				<h1>My Password Creator</h1>
-				
 				<PasswordCreator></PasswordCreator>
 			</div>
 		</div>

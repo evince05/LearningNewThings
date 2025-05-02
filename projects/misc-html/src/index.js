@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import { BlogPage } from './html_layouts/BlogPage';
 import ShowCards from './html_layouts/ShowCards';
 import { NewTags } from './components/NewTags';
